@@ -1,0 +1,23 @@
+{
+    "description": "Alchemy NFT Collection Kit",
+    "external_url": "https://university.alchemy.com/",
+    "image": "ipfs://",
+    "animation_url": "ipfs://",
+    "name": "Alchemy University Cool NFT",
+    "attributes": [
+      {
+        "trait_type": "Event",
+        "value": "Community Call"
+      },
+      {
+        "trait_type": "Date",
+        "value": "December-11-2024"
+      },
+      {
+        "trait_type": "Topic",
+        "value": "NFT Factory"
+      }
+    ]
+  }
+  
+  
