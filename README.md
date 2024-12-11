@@ -48,8 +48,11 @@ ERC-1155 is a token standard that allows for both fungible and non-fungible toke
 ### 2. Smart Contract Development
 1. Access [Remix IDE](https://remix.ethereum.org/)
 2. Create a new project
-3. Use OpenZeppelin Wizard or this project code example to generate your ERC-1155 contract
-4. Customize the contract
+3. Use OpenZeppelin Wizard to generate your ERC-1155 contract
+   - The provided example in this repository includes modifications to make the NFTs "Soulbound"
+   - Soulbound means the NFTs cannot be transferred or sold after minting
+   - This ensures the NFTs remain with their original recipients, maintaining their proof-of-attendance integrity
+4. Customize the contract (name, symbol, etc.)
 5. Compile the contract
 6. Deploy using Injected Provider (Metamask)
    - Verify correct network and account
