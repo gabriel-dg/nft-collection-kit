@@ -48,7 +48,7 @@ ERC-1155 is a token standard that allows for both fungible and non-fungible toke
 ### 2. Smart Contract Development
 1. Access [Remix IDE](https://remix.ethereum.org/)
 2. Create a new project
-3. Use OpenZeppelin Wizard or this project code exampleto generate your ERC-1155 contract
+3. Use OpenZeppelin Wizard or this project code example to generate your ERC-1155 contract
 4. Customize the contract
 5. Compile the contract
 6. Deploy using Injected Provider (Metamask)
