@@ -17,7 +17,7 @@ ERC-1155 is a token standard that allows for both fungible and non-fungible toke
 
 ## Required Tools
 
-> **Note**: The tools listed below are selected for their ease of use and clarity in demonstrating core concepts. While they work well for this tutorial, there are many other excellent alternatives available in the ecosystem. Feel free to substitute them with tools that better suit your specific needs and preferences.
+> **Note**: The tools listed below are selected for their ease of use and clarity in demonstrating the concepts step by step and in a manual way. While they work well for this tutorial, there are many other excellent alternatives available in the ecosystem. Feel free to substitute them with tools that better suit your specific needs and preferences.
 
 ### Core Infrastructure
 - **NFT Standard**: [ERC-1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
