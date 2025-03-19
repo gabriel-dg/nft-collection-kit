@@ -1,23 +1,22 @@
 {
-    "description": "Alchemy NFT Collection Kit",
-    "external_url": "https://university.alchemy.com/",
-    "image": "ipfs://",
-    "animation_url": "ipfs://",
-    "name": "Alchemy University Cool NFT",
-    "attributes": [
-      {
-        "trait_type": "Event",
-        "value": "Community Call"
-      },
-      {
-        "trait_type": "Date",
-        "value": "December-11-2024"
-      },
-      {
-        "trait_type": "Topic",
-        "value": "NFT Factory"
-      }
-    ]
-  }
-  
-  
+  "description": "Alchemy MyFirstNFT Demo - March-19-2025",
+  "external_url": "https://alchemy.com/",
+  "image": "ipfs://",
+  "animation_url": "ipfs://",
+  "name": "Alchemy MyFirstNFT Demo",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "Community Call"
+    },
+    {
+      "trait_type": "Date",
+      "value": "March-19-2025"
+    },
+    {
+      "trait_type": "Topic",
+      "value": "NFT Workflow"
+    }
+  ]
+}
+
